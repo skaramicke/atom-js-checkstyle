@@ -16,7 +16,7 @@
     "emissary": "1.x",
     "underscore-plus": "1.x"
   },
-  "readme": "#JS Checkstyle\n\nThis plugin is for the Atom editor from GitHub, and aims to provide “Checkstyle” integration for JS.\n\nThe plugin supports:\n\n* JS Lint\n\nYou can configure which commands above you want to execute, be it all of them, or just one of them, such as the linter.\n\nThe plugin renders the errors in the following formats, again configurable:\n\n* List view\n* Gutter view\n* Status bar view\n\n## List View\n![JS Checkstyle List View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-sniffer.png)\n\n## Gutter View\n![JS Checkstyle Gutter View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-gutter-view.png)\n\n## Status Bar View\n![JS Checktyle Status Bar View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-status-view.png)\n\nThis is currently very much work in progress, see [here](https://github.com/skaramicke/atom-js-checkstyle/issues) for features/issues\n\nFor more information, please visit [here](http://mikaelgron.se/atom-js-checkstyle)\n\n",
+  "readme": "#JS Checkstyle\n\nThis plugin is for the Atom editor from GitHub, and aims to provide “Checkstyle” integration for JS.\n\nThis is currently very much work in progress, see [here](https://github.com/skaramicke/atom-js-checkstyle/issues) for features/issues\n\nFor more information, please visit [here](http://mikaelgron.se/atom-js-checkstyle)",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/skaramicke/atom-js-checkstyle/issues"
