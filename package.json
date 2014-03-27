@@ -1,0 +1,31 @@
+{
+  "name": "js-checkstyle",
+  "main": "./lib/main",
+  "version": "0.12.0",
+  "private": true,
+  "description": "Checkstyle reporter for JS, utilising jscs, jsmd, js linter and js-cs-fixer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skaramicke/atom-js-checkstyle"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "emissary": "1.x",
+    "underscore-plus": "1.x"
+  },
+  "readme": "#JS Checkstyle\n\nThis plugin is for the Atom editor from GitHub, and aims to provide “Checkstyle” integration for JS.\n\nThe plugin supports:\n\n* JS_CodeSniffer (jscs)\n* Linter (js -l)\n* JS Mess Detector (jsmd)\n* Fix the issues using the JS Coding Standards Fixer (js-cs-fixer) application\n\nYou can configure which commands above you want to execute, be it all of them, or just one of them, such as the linter.\n\nThe plugin renders the errors in the following formats, again configurable:\n\n* List view\n* Gutter view\n* Status bar view\n\n## List View\n![JS Checkstyle List View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-sniffer.png)\n\n## Gutter View\n![JS Checkstyle Gutter View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-gutter-view.png)\n\n## Status Bar View\n![JS Checktyle Status Bar View](http://www.soulbroken.co.uk/wp-content/uploads/atom-js-checkstyle-status-view.png)\n\nThis is currently very much work in progress, see [here](https://github.com/benmatselby/atom-js-checkstyle/issues) for features/issues\n\nFor more information, please visit [here](http://www.soulbroken.co.uk/code/atom-js-checkstyle/)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/benmatselby/atom-js-checkstyle/issues"
+  },
+  "homepage": "https://github.com/benmatselby/atom-js-checkstyle",
+  "_id": "js-checkstyle@0.12.0",
+  "dist": {
+    "shasum": "6611d12786d2bdefe76a38296fb01a067e8123c7"
+  },
+  "_resolved": "/var/folders/d8/yh9j177522n6xgkv4k1_fwqm0000gn/T/d-114225-75354-ln0bm9/package.tgz",
+  "_from": "/var/folders/d8/yh9j177522n6xgkv4k1_fwqm0000gn/T/d-114225-75354-ln0bm9/package.tgz"
+}
